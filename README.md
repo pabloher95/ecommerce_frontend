@@ -6,21 +6,21 @@ This service implements a the React UI for the e-commerce.
 
 ## Prerequisites
 
-Node
-npm
+- Node
+- npm
 
 ## Deployment
 
-0. clone repo: `git@github.com:pabloher95/ecommerce_frontend.git`
+clone repo: `git@github.com:pabloher95/ecommerce_frontend.git`
 
 ### local
-1. 
+
+- deploy web 
 
 ### Docker container
-1. build container from image: 
+
+- build container from image
 
 ## Environment setup
-See env.example for set-up.
 
-
-## Development Workflow
+Use env.example to configure environment variables, making sure to change default values to desired custom configuration
